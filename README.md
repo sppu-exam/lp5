@@ -19,4 +19,7 @@ HPC2.exe
 if openmp dosent work on ubantu
 
 
-https://www.geeksforgeeks.org/openmp-introduction-with-installation-guide/
+https://www.geeksforgeeks.org/openmp-introduction-with-installation-guide/  
+
+
+levi114241
